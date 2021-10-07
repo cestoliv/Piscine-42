@@ -1,0 +1,6 @@
+Credentials cache: API:1C99286D-B361-4E94-A0C7-F50C0DC3AA78
+        Principal: ocartier@42LYON.FR
+
+  Issued                Expires               Principal
+Aug  4 13:14:25 2021  Aug  5 13:14:25 2021  krbtgt/42LYON.FR@42LYON.FR
+Aug  4 13:14:27 2021  Aug  5 13:14:25 2021  HTTP/san-ssd.42lyon.fr@42LYON.FR
